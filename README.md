@@ -1,5 +1,5 @@
 # cryptocoyn
-CryptoCoyn Core integration/staging tree
+This is the CryptoCoyn Core repository. CryptoCoyns is a community driven cryptocurrency designed to grow peoples wealth. As the CryptoCoyn's community expands, we hope that many will choose to participate and improve this project over time.
 
 https://cryptocoyns.com
 
