@@ -12,5 +12,6 @@ For more information see:
 https://cryptocoyns.com
 
 # License
-CryptoCoyn Core is released under the terms of the MIT license. See https://opensource.org/licenses/MIT for more information.
+CryptoCoyn Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+information or see https://opensource.org/licenses/MIT.
 
