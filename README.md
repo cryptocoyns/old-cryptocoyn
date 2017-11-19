@@ -1,0 +1,2 @@
+# cryptocoyn
+CryptoCoyn cryptocurrency
